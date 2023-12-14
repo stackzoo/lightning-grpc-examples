@@ -1,2 +1,2 @@
-# lightning-grpc-examples
+# LIGHTNING gRPC EXAMPLES ⚡
 Example of lightning client implementations via gRPC
