@@ -7,7 +7,7 @@ This folder contains a `python script` to demonstrate gRPC comunication with a L
 Lnd uses the gRPC protocol for communication with clients like `lncli`.  
 gRPC is based on protocol buffers and as such, we needed to compile the lnd proto file in Python before being able to use it to communicate with lnd.  
 All the compiled files are inside the *lnd* directory in the root of the current folder.  
-You will also need the certificate and a macaroon with necessary permission from your node.  
+You will also need the *tls certificate* and a *macaroon* with necessary permission from your node.  
 
 
 ## Example

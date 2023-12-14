@@ -1,0 +1,7 @@
+# macos development
+.DS_Store
+
+# node auth
+tls.cert
+macaroon
+macaroon.hex
