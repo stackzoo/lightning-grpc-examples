@@ -15,8 +15,6 @@ go run main.go
 ```  
 Output sample:  
 ```console
-> nodejs@1.0.0 start
-> node main.js
 
 2023/12/16 16:46:01 Connection established
 2023/12/16 16:46:03 Node Alias: stackzoo.io
